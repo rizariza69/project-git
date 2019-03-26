@@ -1,3 +1,3 @@
 # Project Git
 
-project Gitls
+project Git
